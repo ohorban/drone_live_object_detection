@@ -1,5 +1,7 @@
-# drone_live_object_detection
+# Drone live object recognition
 Get live object detection from you personal drone
+
+
 I'm using DJI mini2
 
 ## Set Up
